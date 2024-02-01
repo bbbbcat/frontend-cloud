@@ -36,4 +36,3 @@ artifacts:
     ImageArtifact:
       files:
         - imagedefinitions.json
-    files: imagedefinitions.json
